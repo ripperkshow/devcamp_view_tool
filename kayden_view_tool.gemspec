@@ -5,7 +5,7 @@ require 'kayden_view_tool/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "kayden_view_tool"
-  spec.version       = DevcampViewTool::VERSION
+  spec.version       = KaydenViewTool::VERSION
   spec.authors       = ["Kayden Corbett"]
   spec.email         = ["kayden.corbett8882001@gmail.com"]
 
