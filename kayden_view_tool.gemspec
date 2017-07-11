@@ -1,13 +1,13 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'devcamp_view_tool/version'
+require 'kayden_view_tool/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "devcamp_view_tool"
+  spec.name          = "kayden_view_tool"
   spec.version       = DevcampViewTool::VERSION
-  spec.authors       = ["Jordan Hudgens"]
-  spec.email         = ["jordan@devcamp.com"]
+  spec.authors       = ["Kayden Corbett"]
+  spec.email         = ["kayden.corbett8882001@gmail.com"]
 
   spec.summary       = %q{Various view specific methods for applications I use}
   spec.description   = %q{Provides generated HTML for Rails applications}

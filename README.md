@@ -1,4 +1,4 @@
-# DevcampViewTool
+# KaydenViewTool
 
 > Various view specific methods for applications I use
 
@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'devcamp_view_tool'
+gem 'kayden_view_tool'
 ```
 
 And then execute:
@@ -16,12 +16,12 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install devcamp_view_tool
+    $ gem install kayden_view_tool
 
 ## Usage
 
 ```ruby
-DevcampViewTool::Renderer.copyright 'Kayden Corbett', 'All rights reserved'
+KaydenViewTool::Renderer.copyright 'Kayden Corbett', 'All rights reserved'
 ```
 
 ## Development
@@ -32,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/devcamp_view_tool.
+Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/kayden_view_tool.
 
 
 ## License

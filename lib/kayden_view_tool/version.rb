@@ -1,3 +1,3 @@
-module DevcampViewTool
+module KaydenViewTool
   VERSION = "0.1.0"
 end
